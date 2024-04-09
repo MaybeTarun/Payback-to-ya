@@ -1,0 +1,25 @@
+{
+  "name": "payback-to-ya",
+  "version": "1.0.0",
+  "description": "An npm package to take revenge from ur client?",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaybeTarun/Payback-to-ya.git"
+  },
+  "keywords": [
+    "prank",
+    "revenge",
+    "payback"
+  ],
+  "author": "Tarun Gupta",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MaybeTarun/Payback-to-ya/issues"
+  },
+  "homepage": "https://github.com/MaybeTarun/Payback-to-ya#readme"
+}

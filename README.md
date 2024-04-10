@@ -1,6 +1,22 @@
-# Payback-to-ya
+## Your client did not pay u yet?
+### No Worries!
 
-Your client did not pay u yet?
-No Worries! Just add this package to your website and all set.
+Introducing "**Payback-to-ya**" npm package. Simply integrate the package into the website, and watch the magic unfold.
 
-The website will start fading a bit every day for a week and after that it will just disappear. (dont worry its still there but has 0 opacity 😜)
+Once installed, the website will gradually fade away each day for a week. But don't fret – the website isn't gone; it's just playing a little disappearing act with 0 opacity. 😜
+
+---
+
+Installation
+
+```npm i payback-to-ya```
+
+Usage
+
+```vanishingSpell();```
+
+> Just execute the function and Voila!
+
+---
+
+**Future Plans:** Add a self destruct function maybe or something which can mess up the website's indentation or colors. I have way too many ideas🤐.
